@@ -3,7 +3,7 @@ BI Dashboard created in Power BI using Power BI Desktop and Power Query.
 
 <img width="912" alt="Dashboard_SS" src="https://user-images.githubusercontent.com/118220804/223491796-1b0d970c-c0c8-4b06-8ec4-f99560df9a5c.png">
 
-Did star schema data modelling in Power Query.
+Did star schema data modelling in Power Query. Created custom Dim_Date table.
 
 Created Current YTD and Previous YTD measures for Profit, Revenue and Quantity,
 
